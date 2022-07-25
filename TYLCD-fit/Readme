@@ -1,0 +1,3 @@
+Tomato Yellow Leaf Curl Virus Disease fit data, we take the data ferom Holt et al.
+In these files we calibrate the model for each data, we uses R-Stan to obtain each parameter estimation.
+For any data we use different configuration to obtain the diseared result.
